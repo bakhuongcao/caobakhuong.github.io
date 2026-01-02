@@ -39,7 +39,7 @@ Postgraduate Office, Thai Nguyen University of Medicine and Pharmacy
 
 ## Education
 
-- **Ph.D. in Health Sciences**, University of Groningen, 08/2023 – 08/2027  
+- **Ph.D. Candidate in Health Sciences**, University of Groningen, 08/2023 – 08/2027  
 - **M.Sc. in Tropical Medicine (Epidemiology)**, Mahidol University, 08/2017 – 08/2019  
 - **Medical Doctor in Preventive Medicine**, Thai Nguyen University of Medicine and Pharmacy, 09/2009 – 08/2015  
 
@@ -95,6 +95,7 @@ Postgraduate Office, Thai Nguyen University of Medicine and Pharmacy
 
 ## Language Proficiency
 
+- Vietnamese: Native 
 - English: IELTS 7.0  
 - Dutch: Basic  
-- Vietnamese: Native  
+ 
