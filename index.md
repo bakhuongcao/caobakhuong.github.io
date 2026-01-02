@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Personal Information
 
 - **Full name**: Ba Khuong Cao  
